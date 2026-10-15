@@ -33,8 +33,7 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Site publicado:** [COLE AQUI O LINK DA VERCEL/RENDER](https://seu-site.vercel.app)
-* 🎨 **Protótipos no Figma:** [COLE AQUI O LINK DO FIGMA](https://www.figma.com/)
+* 🌐 **Site publicado:** []()
 * 💼 **LinkedIn:** [Pedro Miguel](https://www.linkedin.com/in/pedro-miguel-73288130a/)
 * 🐙 **GitHub:** [PedroMiguel1712](https://github.com/PedroMiguel1712)
 

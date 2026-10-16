@@ -61,11 +61,9 @@ Sou **Pedro Miguel Souza Dias**, estudante de Engenharia de Software na PUC Mina
 
 Site estático de página única (SPA simples em JavaScript puro):
 
-- `index.html`: estrutura (cabeçalho, painel de nível, fila de chamados e área do chamado).
-- `css/style.css`: identidade visual, tema claro/escuro e responsividade.
-- `js/script.js`: dados do conteúdo (`PROJ`, `EXP`, `SK`, `CERT`, `TK`), textos PT/EN (`UI`), renderização, escalonamento e formulário.
-
-Fluxo: `dados + idioma → render() → fila de chamados + chamado atual`. Ao abrir um chamado, ele é registrado em `seen` e o nível de atendimento é recalculado.
+- `index.html`
+- `css/style.css`
+- `js/script.js` 
 
 ---
 

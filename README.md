@@ -14,26 +14,8 @@
 
 ---
 
-## 📚 Índice
-- [Links Úteis](#-links-úteis)
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Funcionalidades Principais](#-funcionalidades-principais)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Arquitetura](#-arquitetura)
-- [Instalação e Execução](#-instalação-e-execução)
-- [Configuração do Envio de E-mail](#-configuração-do-envio-de-e-mail-emailjs)
-- [Deploy](#-deploy)
-- [Estrutura de Pastas](#-estrutura-de-pastas)
-- [Protótipos](#-protótipos-figma)
-- [Demonstração](#-demonstração)
-- [Como Editar o Conteúdo](#-como-editar-o-conteúdo)
-- [Autor](#-autor)
-- [Licença](#-licença)
-
----
-
 ## 🔗 Links Úteis
-* 🌐 **Site publicado:** []()
+* 🌐 **Site publicado:** [](https://pedromiguel1712.github.io/Portfolio_DIAW2/)
 * 💼 **LinkedIn:** [Pedro Miguel](https://www.linkedin.com/in/pedro-miguel-73288130a/)
 * 🐙 **GitHub:** [PedroMiguel1712](https://github.com/PedroMiguel1712)
 
